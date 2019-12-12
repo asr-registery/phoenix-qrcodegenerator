@@ -1,4 +1,4 @@
-package af.asr.qrcodegenerator.exception;
+package af.asr.qrcodegenerator.exception.common;
 
 /**
  * Unchecked exception thrown to indicate a syntax error in a regular-expression

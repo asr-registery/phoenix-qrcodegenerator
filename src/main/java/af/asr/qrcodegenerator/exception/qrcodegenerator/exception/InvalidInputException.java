@@ -1,6 +1,6 @@
 package af.asr.qrcodegenerator.exception.qrcodegenerator.exception;
 
-import af.asr.qrcodegenerator.exception.BaseUncheckedException;
+import af.asr.qrcodegenerator.exception.common.BaseUncheckedException;
 
 /**
  * Class which covers the range of exception which occurs when invalid input

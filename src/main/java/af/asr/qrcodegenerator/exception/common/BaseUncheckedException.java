@@ -1,4 +1,4 @@
-package af.asr.qrcodegenerator.exception;
+package af.asr.qrcodegenerator.exception.common;
 
 import java.util.ArrayList;
 import java.util.List;

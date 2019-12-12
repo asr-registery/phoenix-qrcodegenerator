@@ -1,4 +1,4 @@
-package af.asr.qrcodegenerator.exception;
+package af.asr.qrcodegenerator.exception.common;
 
 /**
  * Signals that an <b>I/O exception</b> of some sort has occurred.<br>

@@ -1,4 +1,4 @@
-package af.asr.qrcodegenerator.exception;
+package af.asr.qrcodegenerator.exception.common;
 
 public class FileNotFoundException extends IOException {
 

@@ -1,7 +1,8 @@
 package af.asr.qrcodegenerator.util;
 
 
-import af.asr.qrcodegenerator.exception.NullPointerException;
+import af.asr.qrcodegenerator.exception.common.NullPointerException;
+import af.asr.qrcodegenerator.exception.qrcodegenerator.exception.InvalidInputException;
 
 /**
  * Utils class for QR code generator

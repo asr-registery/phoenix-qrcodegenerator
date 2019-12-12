@@ -1,4 +1,4 @@
-package af.asr.qrcodegenerator.exception;
+package af.asr.qrcodegenerator.exception.common;
 
 /**
  * Thrown to indicate that an array has been accessed with an illegal index. The

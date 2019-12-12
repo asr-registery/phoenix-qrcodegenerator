@@ -1,4 +1,4 @@
-package af.asr.qrcodegenerator.exception;
+package af.asr.qrcodegenerator.exception.common;
 
 /**
  * Signals that an error has been reached unexpectedly while parsing.

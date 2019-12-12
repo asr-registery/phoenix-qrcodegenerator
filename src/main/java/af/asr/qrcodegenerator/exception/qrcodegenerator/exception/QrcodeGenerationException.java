@@ -1,7 +1,7 @@
 package af.asr.qrcodegenerator.exception.qrcodegenerator.exception;
 
 
-import af.asr.qrcodegenerator.exception.BaseCheckedException;
+import af.asr.qrcodegenerator.exception.common.BaseCheckedException;
 
 /**
  * A base class which covers the range of exceptions which may occur when

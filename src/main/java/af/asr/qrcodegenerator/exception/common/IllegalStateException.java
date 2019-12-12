@@ -5,7 +5,7 @@
  * 
  * 
  */
-package af.asr.qrcodegenerator.exception;
+package af.asr.qrcodegenerator.exception.common;
 
 /**
  * Exception to be thrown when date format in filename pattern is wrong
