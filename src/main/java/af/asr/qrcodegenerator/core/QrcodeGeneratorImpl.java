@@ -43,8 +43,8 @@ public class QrcodeGeneratorImpl implements QrCodeGenerator<QrVersion> {
     }
 
     /*
-     * @see .zxing.QrCode#generateQrCode(java.lang.
-     * String, io.mosip.kernel.qrcode.generator.zxing.constant.QrVersion)
+     * @see
+     * String,QrVersion
      */
     @Override
     public byte[] generateQrCode(String data, QrVersion version) throws QrcodeGenerationException, IOException {
