@@ -1,4 +1,4 @@
-package af.asr.phoenixqrcodegenerator;
+package af.asr.qrcodegenerator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
