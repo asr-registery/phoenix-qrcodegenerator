@@ -1,5 +1,11 @@
 package af.asr.qrcodegenerator.util;
 
+
+import af.asr.qrcodegenerator.exception.NullPointerException;
+
+/**
+ * Utils class for QR code generator
+ */
 public class QrcodegeneratorUtils {
     /**
      * Constructor for this class
