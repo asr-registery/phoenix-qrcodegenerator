@@ -2,11 +2,6 @@ package af.asr.qrcodegenerator.exception;
 
 import lombok.Data;
 
-/**
- * @author Bal Vikash Sharma
- * @since 1.0.0
- *
- */
 @Data
 public class ServiceError {
 

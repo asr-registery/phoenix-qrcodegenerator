@@ -3,9 +3,6 @@ package af.asr.qrcodegenerator.exception;
 /**
  * Unchecked exception thrown to indicate a syntax error in a regular-expression
  * pattern
- * 
- * @author Sidhant Agarwal
- * @since 1.0.0
  *
  */
 public class PatternSyntaxException extends BaseUncheckedException {

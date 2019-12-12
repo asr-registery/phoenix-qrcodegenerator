@@ -2,9 +2,6 @@ package af.asr.qrcodegenerator.exception;
 
 /**
  * Signals that an error has been reached unexpectedly while parsing.
- * 
- * @author Bal Vikash Sharma
- * @since 1.0.0
  */
 public class ParseException extends BaseUncheckedException {
 	private static final long serialVersionUID = 924722202110630628L;

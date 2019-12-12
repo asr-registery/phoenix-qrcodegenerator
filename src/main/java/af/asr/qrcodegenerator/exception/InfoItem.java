@@ -10,9 +10,6 @@ import java.io.Serializable;
 /**
  * This class is the entity class for the BaseUncheckedException and
  * BaseCheckedException class.
- * 
- * @author Shashank Agrawal
- * @since 1.0
  */
 @AllArgsConstructor
 @NoArgsConstructor

@@ -1,9 +1,5 @@
 package af.asr.qrcodegenerator.exception;
 
-/**
- * @author Priya Soni
- *
- */
 public class FileNotFoundException extends IOException {
 
 	private static final long serialVersionUID = -1762806620894866489L;

@@ -2,10 +2,6 @@ package af.asr.qrcodegenerator.exception;
 
 /**
  * Base class for all preconditions violation exceptions.
- * 
- * @author Urvil Joshi
- * @author Omsaieswar Mulakaluri
- * @since 1.0.0
  */
 public class NoSuchAlgorithmException extends BaseUncheckedException {
 

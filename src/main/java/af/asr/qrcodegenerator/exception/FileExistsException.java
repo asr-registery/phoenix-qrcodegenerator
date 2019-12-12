@@ -1,9 +1,6 @@
 package af.asr.qrcodegenerator.exception;
 
-/**
- * @author Priya Soni
- *
- */
+
 public class FileExistsException extends IOException {
 
 	private static final long serialVersionUID = 2842522173494167519L;

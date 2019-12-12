@@ -2,12 +2,6 @@ package af.asr.qrcodegenerator.exception;
 
 /**
  * Exception to be thrown when a null argument found.
- * 
- * @author Urvil Joshi
- * @author Ritesh Sinha
- * @author Sagar Mahapatra
- * @author Priya Soni
- * @since 1.0.0
  */
 public class NullPointerException extends BaseUncheckedException {
 

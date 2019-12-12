@@ -1,9 +1,5 @@
 package af.asr.qrcodegenerator.exception;
 
-/**
- * @author Priya Soni
- *
- */
 public class UnsupportedEncodingException extends IOException {
 
 	private static final long serialVersionUID = -8185171240584538662L;

@@ -1,9 +1,5 @@
 package af.asr.qrcodegenerator.exception;
 
-/**
- * @author Priya Soni
- *
- */
 public class UnsupportedCharsetException extends BaseUncheckedException {
 
 	private static final long serialVersionUID = -6711647152648795666L;

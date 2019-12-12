@@ -2,13 +2,6 @@ package af.asr.qrcodegenerator.exception;
 
 /**
  * Base class for all preconditions violation exceptions.
- * 
- * @author Ritesh Sinha
- * @author Sidhant Agarwal
- * @author Sagar Mahapatra
- * @author Ravi Balaji
- * @author Priya Soni
- * @since 1.0.0
  */
 public class IllegalArgumentException extends BaseUncheckedException {
 	/** Serializable version Id. */
