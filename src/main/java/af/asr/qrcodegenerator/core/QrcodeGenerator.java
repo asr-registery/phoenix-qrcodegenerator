@@ -25,7 +25,7 @@ import com.google.zxing.qrcode.decoder.ErrorCorrectionLevel;
  * Class which provides functionality to generate QR Code
  */
 @Component
-public class QrcodeGeneratorImpl implements QrCodeGenerator<QrVersion> {
+public class QrcodeGenerator implements QrCodeGenerator<QrVersion> {
 
     /**
      * {@link QRCodeWriter} instance
